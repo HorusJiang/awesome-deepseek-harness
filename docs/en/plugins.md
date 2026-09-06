@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 2814 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 2815 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [memsearch](resources/memsearch.md) | ⭐2,538 | Persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus. / 面向所有 AI Agent（如 Claude Code、Codex、DSH）的持久化统一记忆层，基于 Markdown 与 Milvus。 | ✅ active |
 | 10 | [dsh-market](resources/dsh-market.md) | ⭐1,582 | Visual plugin market inside DeepSeek Harness: browse, search and one-click install. | ✅ active |
 
-## Complete list (2814)
+## Complete list (2815)
 
 
 **Vision & multimodal (1025)**
@@ -1754,7 +1754,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-ai-news](resources/dsh-ai-news.md) | ⭐1 | DeepSeek Harness AI 新闻插件：多源聚合（HN/ArXiv/官方博客/中文媒体）+ 侧边栏大弹窗新闻流 + 面板内 LLM 总结 | ✅ active |
 | [dsh-news-plugin](resources/dsh-news-plugin.md) | ⭐1 | RSS/news ingestion returning structured title/link/source/date/summary for downstream model ranking and briefing. | ✅ active |
 
-**Developer tools (391)**
+**Developer tools (392)**
 
 *Other (175)*
 
@@ -1998,7 +1998,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-json-types](resources/dsh-json-types.md) | – | @{name=dsh-json-types; version=0.1.0; description=JSON 类型生成：把 JSON 数据转换为 TypeScript 接口 / JSON Schema / Python(Pydantic) 模型，自动推断字段类型、嵌套对象与数组元素类型; type=module; main=lib/index.js; exports=; files=System.Object[]; dsh=; keywords=System.Object[]; author=istone <ad571@qq.com>; license=MIT; peerDependencies=}.description | ✅ active |
 | [dsh-session-roots](resources/dsh-session-roots.md) | – | 让一个 DSH 会话有多个工作区，同时可写多个项目文件夹。 | ✅ active |
 | [dsh-upload](resources/dsh-upload.md) | – | Upload button for the DSH web composer: local files land as bytes in the session workspace (.uploads/<sessionId>/), the absolute path is appended to the draft (visible and editable), and the agent reads the file with its own fs tools. Zero dependencies. / DSH Web 的上传按钮：点 📎 选本地文件，字节落盘到会话工作区 .uploads/<会话ID>/，绝对路径追加进输入框（可见可编辑），AI 用自带 fs 工具直接读取。零依赖。 | ✅ active |
-*🧰 Toolkits (45)*
+*🧰 Toolkits (46)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -2016,6 +2016,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-revive](resources/dsh-revive.md) | ⭐4 | DSH 一键复活：重启后给所有被打断的会话自动发送「继续」指令（/revive 命令 + revive_sessions 工具 + 浏览器一键按钮） | ✅ active |
 | [dsh-tool-markdown](resources/dsh-tool-markdown.md) | ⭐4 | DSH Markdown 工具插件：HTML↔Markdown 转换、GFM 表格规范化、目录生成，零依赖轻量解析器，注册 markdown 工具 | ✅ active |
 | [dsh-agentfuse-plugin](resources/dsh-agentfuse-plugin.md) | ⭐3 | Deterministic fail-closed tool-call authorization for DSH with evidence: allow/block/ask policy gate plus approval-chain deferral. | ✅ active |
+| [dsh-map-tools](resources/dsh-map-tools.md) | ⭐3 | Native map tools for DeepSeek Harness: driving/transit/walking/bicycling route planning, geocoding, reverse geocoding and POI search. Amap (高德) as the main data source, free OSM/OSRM fallback, and an in-app settings card for the key. | ✅ active |
 | [dsh-net-tools](resources/dsh-net-tools.md) | ⭐3 | dsh-net-tools: reliable outbound networking for sandboxed DSH agents — net_fetch (proxy CONNECT-tunnel HTTP fetch) and net_proxy_status (proxy diagnostics). | ✅ active |
 | [dsh-ptc-cordis-preset](resources/dsh-ptc-cordis-preset.md) | ⭐3 | PTC 模式基础上的创造模式:DSH 插件,合成 Code Mode 工具编排 + 自引用 Cordis 工具与 preset 创作指导,物化为 'ptc-cordis' 用户 preset | ✅ active |
 | [dsh-session-toolkit](resources/dsh-session-toolkit.md) | ⭐3 | 会话身份、会话自动上线、会话日志按钮、会话间通信 + 全局提示词/重启服务这类工作台工具 | ✅ active |
