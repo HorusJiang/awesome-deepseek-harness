@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（2814 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（2815 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [memsearch](resources/memsearch.md) | ⭐2,538 | 面向所有 AI Agent（如 Claude Code、Codex、DSH）的持久化统一记忆层，基于 Markdown 与 Milvus 构建。 | ✅ 活跃 |
 | 10 | [dsh-market](resources/dsh-market.md) | ⭐1,582 | DSH 内置可视化插件市场：浏览、搜索、一键安装。 | ✅ 活跃 |
 
-## 完整列表（2814）
+## 完整列表（2815）
 
 
 **视觉与多模态（1025）**
@@ -1754,7 +1754,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-ai-news](resources/dsh-ai-news.md) | ⭐1 | DeepSeek Harness AI 新闻插件：多源聚合（HN/ArXiv/官方博客/中文媒体）+ 侧边栏大弹窗新闻流 + 面板内 LLM 总结 | ✅ 活跃 |
 | [dsh-news-plugin](resources/dsh-news-plugin.md) | ⭐1 | RSS/新闻摄入插件：返回结构化的标题/链接/来源/日期/摘要，供模型排序与简报。 | ✅ 活跃 |
 
-**开发者工具（391）**
+**开发者工具（392）**
 
 *其他（175）*
 
@@ -1998,7 +1998,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-json-types](resources/dsh-json-types.md) | – | @{name=dsh-json-types; version=0.1.0; description=JSON 类型生成：把 JSON 数据转换为 TypeScript 接口 / JSON Schema / Python(Pydantic) 模型，自动推断字段类型、嵌套对象与数组元素类型; type=module; main=lib/index.js; exports=; files=System.Object[]; dsh=; keywords=System.Object[]; author=istone <ad571@qq.com>; license=MIT; peerDependencies=}.description | ✅ 活跃 |
 | [dsh-session-roots](resources/dsh-session-roots.md) | – | 让一个 DSH 会话有多个工作区，同时可写多个项目文件夹。 | ✅ 活跃 |
 | [dsh-upload](resources/dsh-upload.md) | – | DSH Web 的上传按钮：点 📎 选本地文件，字节落盘到会话工作区 .uploads/<会话ID>/，绝对路径追加进输入框（可见可编辑），AI 用自带 fs 工具直接读取。零依赖。 | ✅ 活跃 |
-*🧰 工具与工具包（45）*
+*🧰 工具与工具包（46）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -2016,6 +2016,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [dsh-revive](resources/dsh-revive.md) | ⭐4 | DSH 一键复活：重启后给所有被打断的会话自动发送「继续」指令（/revive 命令 + revive_sessions 工具 + 浏览器一键按钮） | ✅ 活跃 |
 | [dsh-tool-markdown](resources/dsh-tool-markdown.md) | ⭐4 | DSH Markdown 工具插件：HTML↔Markdown 转换、GFM 表格规范化、目录生成，零依赖轻量解析器，注册 markdown 工具 | ✅ 活跃 |
 | [dsh-agentfuse-plugin](resources/dsh-agentfuse-plugin.md) | ⭐3 | Deterministic fail-closed tool-call authorization for DSH with evidence: allow/block/ask policy gate plus approval-chain deferral. | ✅ 活跃 |
+| [dsh-map-tools](resources/dsh-map-tools.md) | ⭐3 | DeepSeek Harness 原生地图工具：驾车/公交/步行/骑行路线规划、地理编码、逆地理编码与 POI 搜索。主数据源为高德，OSM/OSRM 免费兜底，设置页内置 Key 配置卡片。 | ✅ 活跃 |
 | [dsh-net-tools](resources/dsh-net-tools.md) | ⭐3 | dsh-net-tools: reliable outbound networking for sandboxed DSH agents — net_fetch (proxy CONNECT-tunnel HTTP fetch) and net_proxy_status (proxy diagnostics). | ✅ 活跃 |
 | [dsh-ptc-cordis-preset](resources/dsh-ptc-cordis-preset.md) | ⭐3 | PTC 模式基础上的创造模式:DSH 插件,合成 Code Mode 工具编排 + 自引用 Cordis 工具与 preset 创作指导,物化为 'ptc-cordis' 用户 preset | ✅ 活跃 |
 | [dsh-session-toolkit](resources/dsh-session-toolkit.md) | ⭐3 | 会话身份、会话自动上线、会话日志按钮、会话间通信 + 全局提示词/重启服务这类工作台工具 | ✅ 活跃 |
